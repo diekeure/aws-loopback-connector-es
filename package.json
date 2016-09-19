@@ -1,0 +1,23 @@
+{
+  "name": "aws-loopback-connector-es",
+  "version": "1.0.0",
+  "description": "loopback es connector with amazon support",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diekeure/aws-loopback-connector-es.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diekeure/aws-loopback-connector-es/issues"
+  },
+  "homepage": "https://github.com/diekeure/aws-loopback-connector-es#readme",
+  "dependencies": {
+    "http-aws-es": "^1.1.3",
+    "loopback-connector-es": "^1.0.7"
+  }
+}
