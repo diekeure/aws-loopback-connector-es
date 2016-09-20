@@ -1,6 +1,6 @@
 {
   "name": "aws-loopback-connector-es",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "loopback es connector with amazon support",
   "main": "lib/index.js",
   "scripts": {
