@@ -5,7 +5,7 @@ Elasticsearch datasource connector for [Loopback](http://strongloop.com/node-js/
 This connector extends [loopback-connector-elastic-search](https://github.com/strongloop-community/loopback-connector-elastic-search), by
 adding the necesary config for Amazon ES.
 
-Add this to the config block in your datasources.jsonfile
+Add this to the config block in your datasources.json file
 ```
     'name': 'elasticsearch',
     'connector': 'aws-loopback-connector-es',
