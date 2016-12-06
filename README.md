@@ -1,3 +1,5 @@
+# DEPRECATED
+
 # loopback-connector-elastic-search for Amazon ES
 
 Elasticsearch datasource connector for [Loopback](http://strongloop.com/node-js/loopback/) on Amazon ES.
